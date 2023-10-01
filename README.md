@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ApoorvPatidar
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python
-- 💞️ I’m not looking to collaborate on anything right now as I am still new to programmming and still learning
+- 👀 I’m interested in  Competitive Programming
+- 🌱 I’m currently learning C++
 - 📫 How to reach me - You can contact me on apoorvpatidar.ap24@gmail.com
 
 <!---
