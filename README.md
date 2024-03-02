@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ApoorvPatidar.ap">
-    <img src="![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=sfjbrbs8ll1xczdku463st0dh&unique={true|1|on|yes})" alt="Spotify recently played"  />
+    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tpWsVSb9UEmDRxAl1zhX1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
   </a>
 </div>
 
