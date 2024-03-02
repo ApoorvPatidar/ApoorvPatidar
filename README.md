@@ -55,7 +55,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/ApoorvPatidar.ap">
-    <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tpWsVSb9UEmDRxAl1zhX1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    <img src = "<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2tpWsVSb9UEmDRxAl1zhX1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>" ></a>img>
   </a>
 </div>
 
