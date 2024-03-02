@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="right" height="500" src="https://hips.hearstapps.com/elle/assets/16/41/1476456910-polls.gif"  />
+<img align="right" height="800" src="https://hips.hearstapps.com/elle/assets/16/41/1476456910-polls.gif"  />
 
 ###
 
