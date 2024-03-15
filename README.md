@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="center" height="500" src="https://hips.hearstapps.com/elle/assets/16/41/1476456910-polls.gif"  />
+<img align="center" height="500" src="[https://hips.hearstapps.com/elle/assets/16/41/1476456910-polls.gif](https://moewalls.com/anime/sung-jin-woo-darkness-solo-leveling-live-wallpaper/)"  />
 
 ###
 
