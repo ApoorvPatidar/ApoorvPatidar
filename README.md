@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<img align="center" height="500" src="https://moewalls.com/anime/sung-jin-woo-darkness-solo-leveling-live-wallpaper/"  />
+<img align="center" height="500" src="https://moewalls.com/anime/sung-jin-woo-darkness-solo-leveling-live-wallpaper"  />
 
 ###
 
