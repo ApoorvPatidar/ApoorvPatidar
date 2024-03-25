@@ -8,6 +8,8 @@
   <img height="450" src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif?cid=790b7611kz7pl1mlt5r44cw6yvxpcjr8l9oh17kdrp8j4u5v&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
+<div></div>
+
 ###
 
 <div align="center">
@@ -34,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="50" alt="fastapi logo"  />
 </div>
 
+<div></div>
+
 ###
 
 <div align="center">
@@ -41,6 +45,8 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sfjbrbs8ll1xczdku463st0dh&count=3&unique=true" alt="Spotify recently played"  />
   </a>
 </div>
+
+<div></div>
 
 ###
 
@@ -56,6 +62,8 @@
   </a>
 </div>
 
+<div></div>
+
 ###
 
 <div align="center">
@@ -64,14 +72,7 @@
   <img src="https://streak-stats.demolab.com?user=ApoorvPatidar&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ApoorvPatidar/ApoorvPatidar/output/snake.svg" alt="Snake animation" />
-
-###
-###
+<div></div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/ApoorvPatidar.ap">
