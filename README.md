@@ -33,9 +33,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sfjbrbs8ll1xczdku463st0dh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sfjbrbs8ll1xczdku463st0dh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sfjbrbs8ll1xczdku463st0dh&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ApoorvPatidar&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ApoorvPatidar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ApoorvPatidar&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ###
