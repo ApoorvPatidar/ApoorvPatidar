@@ -14,7 +14,7 @@
   <a href="https://www.instagram.com/apoorv.24" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405f&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://apoorvpatidar.ap24@gmail.com" target="_blank">
+  <a href="mailto:apoorvpatidar.ap24@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/apoorvpatidar24" target="_blank">
