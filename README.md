@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Apoorv and I'm a AIML Enthusiast from Delhi</h2>
+<h2 align="left">Hi 👋! My name is Apoorv and I'm an AIML Enthusiast from Delhi</h2>
 
 ###
 
