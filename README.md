@@ -97,6 +97,12 @@
 <!--   <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" /> -->
 </div>
 
+<h2>✍️ Random Dev Quote</h2>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
 <hr>
 
 <h2>📊 GitHub Stats:</h2>
@@ -111,12 +117,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ApoorvPatidar&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-</div>
-
-<h2>✍️ Random Dev Quote</h2>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </div>
 
 <hr>
