@@ -2,49 +2,48 @@
   <img height="450" src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif?cid=790b7611kz7pl1mlt5r44cw6yvxpcjr8l9oh17kdrp8j4u5v&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
-<h1>💫 About Me</h1>
-
-<p>👋 <strong>Hello there!</strong></p>
-<p>I'm a <strong>BTech CSE</strong> student with a passion for <strong>Machine Learning</strong> 🤖 and <strong>Artificial Intelligence</strong> 🧠. Always curious and eager to learn, I thrive on solving complex problems and diving deep into new technologies.</p>
+<h1>😈 Oi! Look who wandered into my lair!</h1>
+<p>I’m Apoorv a <strong>BTech CSE</strong> student with a devilish obsession for <strong>Machine Learning</strong> 🤖 and <strong>Artificial Intelligence</strong> 🧠. Always lurking in the shadows, scheming to solve tricky problems, and cracking open the latest tech like it’s a treasure chest. Beware—I’m here to mess with the limits of technology! 😈</p>
 
 <p><strong>💡 Favorite Quote:</strong></p>
 <blockquote>
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House<br>
+  But really, if your code needs explaining, you might as well summon a demon to fix it because... it’s cursed. 💀
 </blockquote>
 
-<h3>🎯 What I'm All About:</h3>
+<h3>🎯 What I'm Up To (And You Should Be Worried):</h3>
 <ul>
-  <li><strong>AI/ML Enthusiast</strong>: Building models that think 🤔 and learn 📚.</li>
-  <li><strong>Open Source Contributor</strong>: Sharing my code and collaborating with amazing developers worldwide 🌍.</li>
-  <li><strong>Tech Explorer</strong>: From NLP 🗣️ to Reinforcement Learning 🎮, always exploring new domains in AI.</li>
-  <li><strong>Continuous Learner</strong>: Obsessed with mastering the latest in tech and beyond 📈.</li>
+  <li><strong>AI/ML Warlock</strong>: Crafting algorithms that think, learn, and—who knows—maybe take over the world someday. 👾</li>
+  <li><strong>Open Source Marauder</strong>: Dropping code bombs into the open-source universe. Let’s just say, I’ve got some tricks up my sleeve. 😏</li>
+  <li><strong>Tech Explorer of the Forbidden</strong>: Whether it’s <strong>NLP</strong> 🗣️ or <strong>Reinforcement Learning</strong> 🎮, I’m poking around where most mortals fear to tread.</li>
+  <li><strong>Brainiac for Hire</strong>: I absorb new tech knowledge like a sponge—except, this sponge occasionally leaks chaos. 📈</li>
 </ul>
 
-<h3>🔭 Current Focus:</h3>
+<h3>🔭 What's Brewing Now:</h3>
 <ul>
-  <li><strong>Deep Learning</strong>: Convolutional Neural Networks, RNNs, Transformers—you name it, I'm on it! 🚀</li>
-  <li><strong>Hackathons</strong>: Innovating and creating solutions to real-world problems in high-pressure environments 💡.</li>
+  <li><strong>Deep Learning Sorcery</strong>: Playing with <strong>CNNs</strong>, <strong>RNNs</strong>, and <strong>Transformers</strong> like they're my personal arsenal of chaos spells. Don’t blink. You might miss something dangerous. 🚀</li>
+  <li><strong>Hackathon Saboteur</strong>: Under pressure? Perfect. That’s when I pull off the real magic. Innovating in real-time while lowkey causing some mayhem along the way. 💡</li>
 </ul>
 
-<h3>🌟 Fun Facts:</h3>
+<h3>🌟 Fun Facts You Probably Weren’t Ready For:</h3>
 <ul>
-  <li><strong>Coffee Lover ☕</strong>: Code runs on caffeine. My brain runs on caffeine. Coincidence? I think not.</li>
-  <li><strong>Memer at Heart 😂</strong>: When I'm not coding, I'm probably laughing at the latest tech memes.</li>
-  <li><strong>Gamer by Night 🎮</strong>: When the sun sets, I dive into the world of gaming. Any recommendations?</li>
+  <li><strong>Caffeine Addict</strong> ☕: My bloodstream is basically half-coffee. You think I’m up all night coding on pure willpower? Nah, it’s all espresso. ☕</li>
+  <li><strong>Memelord</strong> 😂: When I’m not breaking my brain with code, I’m breaking it with memes. Memes are the true power of the universe, change my mind.</li>
+  <li><strong>Nighttime Gamer</strong> 🎮: I rule in the shadows—whether in the world of code or in the digital realms of gaming. Any games worthy of my reign? Send them over.</li>
 </ul>
 
-<h3>🎯 On My To-Do List:</h3>
+<h3>🎯 Sinister Plans on My To-Do List:</h3>
 <ul>
-  <li><strong>Master GANs and Diffusion Models</strong>: To create something cool and unexpected!</li>
-  <li><strong>Build an AI that Writes Better Code Than I Can</strong>: Still in the brainstorming phase 😅.</li>
-  <li><strong>Contribute to Open-Source</strong>: More projects that make a difference.</li>
+  <li><strong>Master GANs and Diffusion Models</strong>: Because normal AI isn’t enough. I need to create something… more unpredictable. Something to shake the very fabric of reality. 😏</li>
+  <li><strong>Create an AI That Outcodes Me</strong>: Why settle for being the best coder when you can build something that’s better? It’s all part of my grand plan. 😈</li>
+  <li><strong>Open-Source Domination</strong>: More contributions? Absolutely. Soon, all the repos will bear my mark. Mwahaha.</li>
 </ul>
 
-<h3>🤝 How You Can Help:</h3>
+<h3>🤝 Wanna Team Up for World Domination?</h3>
 <ul>
-  <li>Got a cool project? I'm always open to collaborations and contributing to open-source.</li>
-  <li>Found a bug in one of my repos? Feel free to submit an issue or, even better, a pull request!</li>
-  <li>Just wanna chat about AIML, tech trends, or the latest memes? Drop me a message!</li>
+  <li>Got a diabolical project? I’m always ready to team up and wreak havoc on some new code.</li>
+  <li>Found a glitch in my spellbook (repo)? Submit a pull request—if you can handle the madness.</li>
+  <li>Just want to chat AIML, plot tech-world domination, or swap some spicy memes? My inbox is open for all sorts of mischief. 😈</li>
 </ul>
 
 <hr>
