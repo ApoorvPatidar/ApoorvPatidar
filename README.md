@@ -89,13 +89,13 @@
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> -->
+<!--   <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase" /> -->
+<!--   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" />
+<!--   <img src="https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=flat-square&logo=bitbucket&logoColor=white" /> -->
 </div>
 
 <hr>
