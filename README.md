@@ -1,14 +1,10 @@
-<h2 align="left">Hi 👋! My name is Apoorv and I'm an AIML Enthusiast from Delhi</h2>
-
-###
-
-<br clear="both">
-
 <div align="center">
   <img height="450" src="https://media.giphy.com/media/o2KLYPem407CM/giphy.gif?cid=790b7611kz7pl1mlt5r44cw6yvxpcjr8l9oh17kdrp8j4u5v&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 </div>
 
-###
+<br clear="both">
+
+<h2 align="left">Oi! I am Apoorv</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/apoorv.24" target="_blank">
