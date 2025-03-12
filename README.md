@@ -3,7 +3,7 @@
 </div>
 
 <h1>👋 Welcome to My Profile </h1>
-<p>I’m **Apoorv**, a **B.Tech CSE** student with a strong passion for **Machine Learning** 🤖 and **Artificial Intelligence** 🧠. I am deeply interested in exploring and pushing the boundaries of technology, constantly seeking innovative solutions to complex problems.</p>
+<p>I’m Apoorv, a B.Tech CSE student with a strong passion for Machine Learning 🤖 and Artificial Intelligence 🧠. I am deeply interested in exploring and pushing the boundaries of technology, constantly seeking innovative solutions to complex problems.</p>
 
 <p><strong>💡 Favorite Quote:</strong></p>
 <blockquote>
