@@ -85,9 +85,3 @@ I am passionate about designing, building, and deploying **intelligent systems**
 </div>
 
 ---
-
-<div align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ApoorvPatidar&icon=2&color=12" />
-  </a>
-</div>
