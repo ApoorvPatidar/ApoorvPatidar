@@ -6,7 +6,7 @@
 
 🎓 **B.Tech CSE Student** | 💻 **AIML Enthusiast** | 🚀 **Aspiring Big Tech Engineer**
 
-I am passionate about designing, building, and deploying **intelligent systems** that solve complex, real-world problems. My work focuses on **Machine Learning, Deep Learning, Natural Language Processing**, and scalable AI solutions, with a continuous drive to stay ahead of technological trends.
+I am passionate about designing, building, and deploying **intelligent systems** that solve complex, real-world problems. My work focuses on **Machine Learning, Deep Learning and scalable AI solutions**, with a continuous drive to stay ahead of technological trends.
 
 ---
 
@@ -44,14 +44,9 @@ I am passionate about designing, building, and deploying **intelligent systems**
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-**Programming Languages & Core Skills**  
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" /> 
 <img src="https://img.shields.io/badge/Swift-F54A2A?style=flat-square&logo=swift&logoColor=white" />  
-
-**Frameworks & Libraries**  
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white" />  
@@ -60,19 +55,13 @@ I am passionate about designing, building, and deploying **intelligent systems**
 <img src="https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white" /> 
 <img src="https://img.shields.io/badge/HuggingFace-F7931E?style=flat-square&logo=huggingface&logoColor=white" /> 
 <img src="https://img.shields.io/badge/CrewAI-FF4500?style=flat-square&logo=crewai&logoColor=white" />  
-
-**MLOps & Deployment**  
 <img src="https://img.shields.io/badge/MLflow-0194E2.svg?style=flat-square&logo=mlflow&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=flat-square&logo=docker&logoColor=white" /> 
 <img src="https://img.shields.io/badge/DagsHub-FF6F00?style=flat-square&logo=dagshub&logoColor=white" />  
 <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white" /> 
-
-**Databases**  
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />  
-
-</div>
 
 ---
 
